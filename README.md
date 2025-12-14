@@ -1,5 +1,3 @@
-1
-
 # Public transport line colors
 
 This repository is made for collecting line colors in public transport lines.
