@@ -1,10 +1,27 @@
 <?php
 
-$csv = array_map("str_getcsv", file("../line-colors.csv", FILE_SKIP_EMPTY_LINES));
-$keys = array_shift($csv);
-foreach ($csv as $i => $row) {
-    $csv[$i] = array_combine($keys, $row);
+function csvToAssoc($file)
+{
+    $rows = array_map('str_getcsv', file($file, FILE_SKIP_EMPTY_LINES));
+    $headers = array_shift($rows);
+
+    return array_map(function ($row) use ($headers) {
+        $row = array_pad($row, count($headers), null);
+        $row = array_slice($row, 0, count($headers));
+
+        return array_combine($headers, $row);
+    }, $rows);
 }
+
+// read base colours
+$csv = csvToAssoc("../line-colors.csv");
+
+// read Swiss colours
+$csv_CH = csvToAssoc("../line-colors-CH.csv");
+
+// merge both CSVs
+$csv = array_merge($csv, $csv_CH);
+
 
 $linesByOperatorCode = array_reduce($csv, function ($result, $line) {
     $result[$line["shortOperatorName"]][] = $line;
