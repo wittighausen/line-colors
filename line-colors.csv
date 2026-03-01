@@ -89,6 +89,187 @@ avv-zzz,395,,,#008a70,#ffffff,,circle,,14555,Wittelsbacher Land 01
 avv-zzz,694,,,#6267a2,#ffffff,,circle,,14328,Stauden 02 (ab j24)
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle,,10971,Bayerische Zugspitzbahn
 bob,RB91,,,#afca0b,#ffffff,,rectangle,,10867,Bodensee-Oberschwaben-Bahn
+bodo-buchmann,1 Blau,,,#009ee3,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,2 Rot,,,#cd1619,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,3 Gruen,,,#3fa435,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,4 Gelb,,,#ffd400,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,90,,,#b1ded3,#000000,,rectangle,,7546,Buchmann
+bodo-buchmann,92,,,#b86031,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,120,,,#9dd29c,#000000,,rectangle,,7546,Buchmann
+bodo-buchmann,7572,,,#d82229,#ffffff,,rectangle,,7546,Buchmann
+bodo-buehler,40,,,#e6bd81,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,41,,,#007135,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,44,,,#007135,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,45,,,#007135,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,240,,,#a30b10,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,685,,,#42469d,#ffffff,,rectangle,,7547,Bühler
+bodo-burkhard,11,,,#d82229,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,12,,,#acab37,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,22,,,#0cbaed,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,111,,,#cec19f,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,112,,,#9dc5d6,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,113,,,#ffe93f,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,122,,,#b369ab,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,141,,,#d1d3d4,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,181,,,#e4bc3d,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,R40,,,#f68a2d,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,R41,,,#d6df23,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,S40,,,#d6df23,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,S41,,,#f68a2d,#ffffff,,rectangle,,14394,Burkhard
+bodo-ehrmann,111,,,#ed1c24,#ffffff,,rectangle,,7548,Ehrmann
+bodo-ehrmann,7549,,,#cb6a62,#ffffff,,rectangle,,7548,Ehrmann
+bodo-grabherr,290,,,#a8cf38,#ffffff,,rectangle,,14977,Grabherr
+bodo-hutter,134,,,#00a650,#ffffff,,rectangle,,7551,Hutter
+bodo-hutter,135,,,#c7eafb,#000000,,rectangle,,7551,Hutter
+bodo-hutter,7569,,,#feb912,#ffffff,,rectangle,,7551,Hutter
+bodo-mueller,30/1,,,#b37ab4,#ffffff,,rectangle,,7553,Müller
+bodo-mueller,31,,,#c7eafb,#000000,,rectangle,,7553,Müller
+bodo-mueller,32,,,#c4df9b,#000000,,rectangle,,7553,Müller
+bodo-mueller,33/5,,,#ccd2c8,#000000,,rectangle,,7553,Müller
+bodo-mueller,33/7,,,#ccd2c8,#000000,,rectangle,,7553,Müller
+bodo-mueller,33/8,,,#ccd2c8,#000000,,rectangle,,7553,Müller
+bodo-mueller,34,,,#fce600,#000000,,rectangle,,7553,Müller
+bodo-mueller,R30,,,#64bd45,#ffffff,,rectangle,,7553,Müller
+bodo-rab,1,,,#c3002f,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,3,,,#f1cb0c,#000000,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,4,,,#24954c,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,5,,,#da92ba,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,6,,,#c40079,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7A,,,#978fc2,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,14,,,#b47684,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,15,,,#caac25,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,16,,,#e6e238,#000000,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,20,,,#a0872e,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,21,,,#776dac,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,110,,,#f8e100,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,111,,,#efdab5,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,161,,,#ad4c9d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,211,,,#64bd45,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,634,,,#c14c71,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,677,,,#f8941d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,680,,,#edbe93,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,685,,,#42469d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,700,,,#feb912,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,731,,,#007db7,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,732,,,#d6df23,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,733,,,#e18727,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7377,,,#f8941d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7379,,,#429682,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7380,,,#43c8f5,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7381,,,#8463ab,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7382,,,#9dc5d6,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7383,,,#85921e,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7384,,,#ec008c,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7385,,,#007135,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7389,,,#b9a0ca,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7392,,,#a8cf38,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7394,,,#ca5ca3,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7395,,,#d82229,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7396,,,#a30b10,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7397,,,#ef5ba1,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7534,,,#efdab5,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7535,,,#fce600,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7537,,,#56be84,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7539,,,#f9d308,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7543,,,#d0bf7e,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7544,,,#00aeef,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7546,,,#ec008c,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7547,,,#582f92,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7550,,,#782e76,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7551,,,#00854a,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7552,,,#8cc63f,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7554,,,#8c8e81,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7567,,,#56be84,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7567.1,,,#56be84,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7571,,,#a18dc2,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7587,,,#57a7d2,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,N 4,,,#619d45,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R45,,,#f68a2d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R65,,,#f68a2d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R70,,,#008b94,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R80,,,#f68a2d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R90,,,#8c8e81,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,S30,,,#f68a2d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,S95,,,#8c8e81,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rba,19,,,#790b19,#ffffff,,rectangle,,8082,RBA Lindau
+bodo-rba,192,,,#ee2157,#ffffff,,rectangle,,8082,RBA Lindau
+bodo-reisch,12,,,#77bae7,#ffffff,,rectangle,,7555,Reisch
+bodo-reisch,R60,,,#006db0,#ffffff,,rectangle,,7555,Reisch
+bodo-schuler,101,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,102,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,103,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,104,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,105.1,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,105.2,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-sohler,13,,,#782e76,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,14,,,#45c3cc,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,15,,,#0087cb,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,17,,,#f5ba18,#000000,,rectangle,,14393,Sohler Wangen
+bodo-sohler,132,,,#acab37,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,133,,,#e18727,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,151,,,#7db495,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sonstige,449,,,#828fc6,#ffffff,,rectangle,,7545,Sonstige VU
+bodo-sonstige,626,,,#fbd600,#000000,,rectangle,,15172,Bürgermobil Meckenbeuren
+bodo-sonstige,670,,,#c48177,#ffffff,,rectangle,,7545,Sonstige VU
+bodo-sonstige,696,,,#f8afac,#000000,,rectangle,,7545,Sonstige VU
+bodo-sonstige,697 emma Salem,,,#006db0,#ffffff,,rectangle,,7545,Sonstige VU
+bodo-stadtverkehr-fhafen,1,,,#44b389,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,2,,,#fcbe00,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,3,,,#e30614,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,4,,,#008f3d,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,5,,,#e06ca6,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,6,,,#00b5dd,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,10,,,#7c2239,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,11,,,#005da9,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,12,,,#009ba4,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,13,,,#ed7004,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,14,,,#ca9912,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,15,,,#79186f,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,16,,,#273472,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E3,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E11,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E13,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E15,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E16,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,MX,,,#7c6eb0,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,X12,,,#8bcfda,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,X14,,,#85621b,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-isny,74,,,#d0bf7e,#ffffff,,rectangle,,7554,Isny
+bodo-stadtverkehr-lindau,1,,,#e50051,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtverkehr-lindau,2,,,#39aa3f,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtverkehr-lindau,3,,,#fbba00,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtverkehr-lindau,4,,,#7e65aa,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtverkehr-lindau,5,,,#008dbd,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtwerke-ueberlingen,1,,,#d71920,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,2,,,#ffc20c,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,3,,,#009cdb,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,4,,,#851f82,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,5,,,#009549,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,6,,,#005198,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,7,,,#99ca3c,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,14,,,#f37021,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-strauss,1,,,#fecb09,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,2,,,#fecb09,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,220,,,#ef3f2c,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,221,,,#beb0d6,#000000,,rectangle,,14979,Strauss
+bodo-strauss,221/4,,,#beb0d6,#000000,,rectangle,,14979,Strauss
+bodo-strauss,222,,,#b0a3a1,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,224,,,#fad600,#000000,,rectangle,,14979,Strauss
+bodo-strauss,225,,,#c6d92c,#000000,,rectangle,,14979,Strauss
+bodo-strauss,226,,,#9f2583,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,227,,,#725a38,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,229,,,#64bd45,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,235,,,#aacd8d,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,238,,,#c6178d,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,239,,,#ed1a3a,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,246,,,#007db7,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,2240,,,#f6891f,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,N3,,,#006db0,#ffffff,,rectangle,,14979,Strauss
+bodo-vb-schussental,20,,,#a88a37,#ffffff,,rectangle,,14978,Verkehrsbetriebe Schussental
+bodo-vb-schussental,21,,,#7570b4,#ffffff,,rectangle,,14978,Verkehrsbetriebe Schussental
+bodo-volk,80/81,,,#b369ab,#ffffff,,rectangle,,7558,Volk
+bodo-volk,82,,,#f5821f,#ffffff,,rectangle,,7558,Volk
+bodo-volk,83,,,#2e3092,#ffffff,,rectangle,,7558,Volk
 brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,RB 14,bayerische-regiobahn,brb-rb14,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,RB 53,bayerische-regiobahn,brb-rb53,#ff9999,#ffffff,,rectangle,,10887,Berchtesgadener Land Bahn
@@ -379,8 +560,213 @@ db-sev-hamburg-berlin,X1,,,#2460ad,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X4,,,#00706c,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X8,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X9,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
+ding-bayer,21,,,#1488ca,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,36,,,#9174b2,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,37,,,#a65893,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,38,,,#d0aece,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,223,,,#3e7dba,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,225,,,#aed6b4,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,231,,,#fdcf8a,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,232,,,#a65893,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,239,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,250,,,#a9cd73,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,251,,,#e1c156,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,252,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,252E,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,253,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,253E,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,254,,,#ffffff,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,255,,,#75529d,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,255E,,,#75529d,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,301,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,302,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,303,,,#bb7cb3,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,304,,,#f7b59b,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,314,,,#6082c1,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,315,,,#f8c7c8,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,317,,,#a9663e,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,319,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,320,,,#ef7eb0,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,331,,,#9e82a9,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,336,,,#a8dcf8,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,337,,,#e6dc53,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,X250,,,#2fac66,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bbs-schapfl,812,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7606,BBS Schapfl
+ding-bettighofer,78,,,#daa847,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-bettighofer,711,,,#ca736c,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-bettighofer,713,,,#b45a97,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-braunmiller,701,,,#3573a7,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,702,,,#b3d172,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,704,,,#5893ce,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,706,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-diesch-gmbh,272,,,#a0ca73,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,280,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,281,,,#5f69af,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,282,,,#c9cdcf,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-fromm,215,,,#c05037,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-fromm,242,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-fromm,716,,,#6ec4c6,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-gairing,72,,,#e0693f,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,73,,,#fcc452,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84A,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84X,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,85,,,#f08262,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,88,,,#7fbeea,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,88X,,,#7fbeea,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,89,,,#51825b,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,597,,,#a85d97,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,728,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,729,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,733,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,734,,,#a65893,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,739,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,763,,,#74519c,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,769,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,N5,,,#175da3,#ffffff,,circle,,7626,Gairing NU
+ding-gairing,Pfiffibus,,,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 7
+ding-hvg,1,,,#ffffff,#e2000e,#e2000e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,2,,,#ffffff,#c6007e,#c6007e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,3,,,#ffffff,#009535,#009535,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,4,,,#ffffff,#009d8a,#009d8a,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,5,,,#ffffff,#ef7c00,#ef7c00,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,6,,,#ffffff,#0080c8,#0080c8,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,6a,,,#ffffff,#0080c8,#0080c8,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,7,,,#ffffff,#75b735,#75b735,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,7a,,,#ffffff,#75b735,#75b735,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,60,,,#ffffff,#ef7c00,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,61,,,#ffffff,#8d004b,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,62,,,#ffffff,#ba65a5,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,63,,,#ffffff,#03baee,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,64,,,#ffffff,#9fb71a,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,68,,,#ffffff,#2e2482,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-klemens-diesch,270,,,#4965a3,#ffffff,,rectangle-rounded-corner,,7600,Klemens Diesch
+ding-klemens-diesch,271,,,#a9cdcf,#ffffff,,rectangle-rounded-corner,,7600,Klemens Diesch
+ding-kloepfer,467,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,491,,,#6d94ab,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,583,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,585,,,#935d3a,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-miller,920,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7607,Miller
+ding-miller,929,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7607,Miller
+ding-neubus,71,,,#77a960,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,71,,,#77a960,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,79,,,#9471a3,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,79,,,#9471a3,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,86,,,#56b365,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,86,,,#56b365,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,850,,,#f8af65,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,850,,,#f8af65,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,925,,,#ec619f,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,925,,,#ec619f,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-oster,711,,,#ca736c,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-oster,713,,,#b45a97,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-oster,719,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-rab,49,,,#b4d05f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,58,,,#4965a3,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,59,,,#eac450,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,217a,,,#f0836f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,241,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,343,,,#f2d256,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,346,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,350,,,#31a098,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,351,,,#96c0e8,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,352,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,364,,,#3ebbca,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,366,,,#c19640,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,367,,,#d9a2ca,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,368,,,#9e75b2,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,463,,,#2fac66,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,465,,,#96c0e8,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,582,,,#f6ab7d,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,593,,,#c75b63,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,X340,,,#b4d05f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,X365,,,#fbbd51,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-stadtwerke-biberach,1,,,#ffffff,#ec3085,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,2,,,#ffffff,#fdc74c,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,3,,,#ffffff,#a9578a,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,4,,,#ffffff,#cdac79,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,5,,,#ffffff,#ee4347,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,6,,,#ffffff,#00af5e,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,10,,,#ffffff,#0093cb,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,11,,,#ffffff,#47a783,,rectangle,,7599,Stadtwerke Biberach
+ding-svl,23,,,#e4db53,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,24,,,#6082c1,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,30,,,#ffffff,#734100,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,35,,,#ffffff,#fcc200,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,40,,,#ffffff,#e2000e,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,41,,,#ffffff,#005e25,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,46,,,#a65893,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,50,,,#ffffff,#fcc877,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,50_1,,,#ffffff,#fcc877,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,51,,,#ffffff,#f29ec4,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,52,,,#ffffff,#0080c8,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,70,,,#d0aece,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,74,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,75,,,#ffffff,#00953f,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,76,,,#ffffff,#c7b600,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,212,,,#906f7a,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,216,,,#ec619f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,216E,,,#ec619f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,217,,,#99603c,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,220,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,221,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,222,,,#8c7fbb,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,226,,,#6ec5f0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,227,,,#ee7bae,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,229,,,#f6d455,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,240,,,#2fac66,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,316,,,#3e98d4,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,318,,,#00b2b5,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,321,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,325,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,326,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,328,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,329,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,333,,,#ee7bae,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,334,,,#00b5db,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,335,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,391,,,#a9663e,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,392,,,#efc04f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,461,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,469,,,#f8af65,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589a,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589b,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589c,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,591,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,723,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,724,,,#6082c1,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-swu,1,,8-ald087-1,#e52329,#ffffff,,rectangle,,7623,SWU Verkehr
 ding-swu,2,,8-ald087-2,#3fad56,#ffffff,,rectangle,,7623,SWU Verkehr
+ding-swu,4,,,#01806d,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,5,,,#1aa8be,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,6,,,#f79534,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,7,,,#b1006a,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,8,,,#76408c,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,9,,,#df9cbb,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,10,,,#a5a158,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,11,,,#005da3,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,12,,,#b22c2b,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,13,,,#7ac493,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,14,,,#00adef,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,15,,,#b382ba,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,MS9,,,#ffffff,#000000,#c6c6c6,rectangle-rounded-corner,,7630,SWU - SAM
+ding-swu,MS14,,,#ffffff,#000000,#c6c6c6,rectangle-rounded-corner,,7630,SWU - SAM
+ding-swu,N1,,,#e40613,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N2,,,#76408c,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N3,,,#82bc44,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N4,,,#19b4ea,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N7,,,#dd4b94,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N8,,,#f39436,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,SEV2,,,#3fad56,#ffffff,,circle,,7623,SWU Verkehr
+ding-walk,218,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,327,,,#9ed8f7,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,380,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,381,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,382,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,395,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,7620,Walk
+ding-walk,X380,,,#edab4c,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-weidachstein,77,,,#7eb0e0,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
+ding-weidachstein,737,,,#c87a3d,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
 dingo,Blauer DINGO,,,#203b7c,#ffffff,,rectangle,,9575,Bus8
 dingo,Gelber DINGO,,,#f3cb0f,#000000,,rectangle,,9575,Bus8
 dingo,Grüner DINGO,,,#4f8437,#ffffff,,rectangle,,9575,Bus8
@@ -684,17 +1070,132 @@ hvv-vhh,X80,,,#ebc353,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X81,,,#30653c,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X82,,,#8697b1,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X95,,,#c06936,#ffffff,,hexagon,,15146,VHH Bus
-infrago-gs-ha-w-k,RB48,,,#55ace0,#ffffff,,pill,,10913,National Express
-infrago-gs-ha-w-k,RB48X,,,#68ab44,#ffffff,,pill,,10913,National Express
-infrago-gs-ha-w-k,RE4,,,#ffd204,#000000,,pill,,10913,National Express
-infrago-gs-ha-w-k,RE7X,,,#f69324,#ffffff,,pill,,10913,National Express
-infrago-gs-ha-w-k,RE13,,,#7f5c1e,#ffffff,,pill,,11049,Eurobahn
+infrago-gs-ha-w-k,RB48,,,#55ace0,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,RB48X,,,#68ab44,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,RE7,,,#f69324,#ffffff,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
+infrago-gs-ha-w-k,RE7X,,,#f69324,#ffffff,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
 infrago-gs-ha-w-k,RE49,,,#fdc210,#000000,,pill,,10436,DB Regio AG NRW
-infrago-gs-ha-w-k,S7,,,#bc6b28,#ffffff,,pill,,14173,RheinRuhrBahn
-infrago-gs-ha-w-k,S8,,,#397325,#ffffff,,pill,,10436,DB Regio AG NRW
-infrago-gs-ha-w-k,S9,,,#54207a,#ffffff,,pill,,10436,DB Regio AG NRW
-infrago-gs-ha-w-k,S28,,,#00a89c,#ffffff,,pill,,10894,REGIOBAHN
-infrago-gs-ha-w-k,S68,,,#f69324,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,S7,,,#bc6b28,#ffffff,,pill,,10436,DB Regio AG NRW
+kvsh-fmo,12,,,#6460ab,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,12A,,,#b4c2d4,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,13,,,#00a650,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,14,,,#161c21,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,16,,,#c95788,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,17,,,#f78f1e,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,17A,,,#ffe795,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,18,,,#ef5ba1,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,18A,,,#e0b6ad,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,20,,,#f15a22,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,23,,,#c6178d,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,23A,,,#c88e84,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,23N,,,#c6178d,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,23S,,,#c6178d,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,49,,,#a46aad,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,50,,,#c9b484,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,58,,,#963c3a,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,59,,,#c9158d,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,59A,,,#ddb6ac,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,60,,,#f78f1e,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,61,,,#ae2b30,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,61A,,,#8995b8,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,62,,,#0073a9,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,62A,,,#eac7d4,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,62B,,,#adcfee,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,62C,,,#eac7d4,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,62D,,,#0073a9,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,63,,,#f5ba18,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,67,,,#006f45,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,68,,,#89cb92,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,70,,,#5abee6,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-fmo,S1,,,#0099ac,#ffffff,#ffffff,hexagon,,14222,Friedrich Müller Omnibus im KVSH
+kvsh-hofmann,40,,,#ec1f25,#ffffff,#ffffff,hexagon,,14414,Hofmann Omnibusverkehr
+kvsh-hofmann,43,,,#f38721,#ffffff,#ffffff,hexagon,,14414,Hofmann Omnibusverkehr
+kvsh-hofmann,44,,,#fecb09,#ffffff,#ffffff,hexagon,,14414,Hofmann Omnibusverkehr
+kvsh-hofmann,46,,,#782b90,#ffffff,#ffffff,hexagon,,14414,Hofmann Omnibusverkehr
+kvsh-roehler,29,,,#c88e84,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,30,,,#4d8e7c,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,31,,,#d3899a,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,32,,,#faaa5f,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,32/8,,,#a2a8b9,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,52,,,#5e7770,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,53,,,#d587a7,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,53N,,,#d587a7,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,55,,,#8d4d9e,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,55B,,,#c77fb6,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,56,,,#8dc03f,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,64,,,#00a650,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,65,,,#ffcb04,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,66,,,#ed1c24,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,66A,,,#fecd9d,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,71,,,#005790,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,71F,,,#005790,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,72,,,#161c21,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,73,,,#8b5e00,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,74,,,#f8941d,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,75,,,#8b5e00,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,78,,,#94ba3d,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,81,,,#008da1,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,82,,,#83bce7,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,85,,,#ad7938,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,88c,,,#1b599d,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,91,,,#c6178d,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,93,,,#936daf,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,94,,,#707bbb,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,95,,,#ed1c24,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,96,,,#00a650,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,96F,,,#a2d289,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,101,,,#23bba8,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,102,,,#007aa3,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,103,,,#f8941d,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,104,,,#86b498,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-roehler,S10,,,#46bfac,#ffffff,#ffffff,hexagon,,7988,Röhler
+kvsh-rufbus,R8,,,#e165a4,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R10,,,#fecb09,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R16N,,,#a7cf39,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R18,,,#00a551,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R20,,,#0089d0,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R23,,,#f191ad,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R26,,,#b26e33,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R43,,,#f8ac73,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R45,,,#b26e33,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R55,,,#d9223d,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R58,,,#f6941f,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R59,,,#0089d0,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R60,,,#e165a4,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R62,,,#a7cf39,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R66,,,#f6941f,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R66N,,,#fecb09,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-rufbus,R90,,,#0089d0,#ffffff,#ffffff,hexagon,,11971,VSH1
+kvsh-stadtbus-sha,1,,,#ed1c24,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,1E,,,#ed1c24,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,2,,,#4f7abe,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,2E,,,#4f7abe,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,3,,,#c95788,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,4,,,#8cc63f,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,4A,,,#e19b92,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,4AE,,,#e19b92,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,4E,,,#8cc63f,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,5,,,#963c3a,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,5A,,,#963c3a,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,5E,,,#963c3a,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,6,,,#ffd400,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,6E,,,#ffd400,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,7,,,#f78b1e,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,7E,,,#f78b1e,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,8,,,#75a7d9,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,8/32,,,#bcbec0,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,8A-1,,,#75a7d9,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,8A-2,,,#75a7d9,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,8A-3,,,#75a7d9,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,8A-4,,,#75a7d9,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,8E,,,#75a7d9,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,9,,,#2e3092,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,10,,,#007a48,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,10E,,,#007a48,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,45,,,#82ca9d,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,45E,,,#82ca9d,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,47,,,#9cc8d4,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
+kvsh-stadtbus-sha,48,,,#caa7ba,#ffffff,#ffffff,hexagon,,7987,Stadtverkehr SHA
 kvv-anrufverkehre,203,,,#ffd400,#000000,,circle,,7671,Taxiverkehre
 kvv-anrufverkehre,204,,,#f5821f,#ffffff,,circle,,7671,Taxiverkehre
 kvv-anrufverkehre,205,,,#a87b50,#ffffff,,circle,,7671,Taxiverkehre
@@ -927,106 +1428,106 @@ kvv-woehrle,162,,,#f295a0,#ffffff,,circle,,7667,Bus Wöhrle
 kvv-woehrle,162s,,,#f295a0,#ffffff,,circle,,7667,Bus Wöhrle
 kvv-woehrle,163,,,#62baea,#ffffff,,circle,,7667,Bus Wöhrle
 kvv-woehrle,164,,,#b17f4a,#ffffff,,circle,,7667,Bus Wöhrle
-lavv-swl,601,,,#85bc22,#ffffff,,rectangle,,11941,SWL
-lavv-swl,602,,,#fbba00,#000000,,rectangle,,11941,SWL
-lavv-swl,603,,,#de007d,#ffffff,,rectangle,,11941,SWL
-lavv-swl,604,,,#009ee3,#ffffff,,rectangle,,11941,SWL
-lavv-swl,605,,,#007757,#ffffff,,rectangle,,11941,SWL
-lavv-swl,606,,,#0070ba,#ffffff,,rectangle,,11941,SWL
-lavv-swl,607,,,#00b2bb,#ffffff,,rectangle,,11941,SWL
-lavv-swl,608,,,#ffed00,#000000,,rectangle,,11941,SWL
-lavv-swl,609,,,#0b9a33,#ffffff,,rectangle,,11941,SWL
-lavv-swl,610,,,#9d1680,#ffffff,,rectangle,,11941,SWL
-lavv-swl,611,,,#e3000f,#ffffff,,rectangle,,11941,SWL
-lavv-swl,612,,,#58348b,#ffffff,,rectangle,,11941,SWL
-lavv-swl,614,,,#ee7100,#ffffff,,rectangle,,11941,SWL
-lavv-swl,615,,,#5f90a7,#ffffff,,rectangle,,11941,SWL
-lavv-swl,616,,,#a87555,#ffffff,,rectangle,,11941,SWL
-lavv-swl,617,,,#673e7a,#ffffff,,rectangle,,11941,SWL
-lavv-swl,618,,,#b74139,#ffffff,,rectangle,,11941,SWL
-lavv-swl,619,,,#00817f,#ffffff,,rectangle,,11941,SWL
-lavv-swl,620,,,#9d1680,#ffffff,,rectangle,,11941,SWL
-lavv-swl,621,,,#85bc22,#ffffff,,rectangle,,11941,SWL
-lavv-swl,622,,,#fbba00,#000000,,rectangle,,11941,SWL
-lavv-swl,623,,,#de007d,#ffffff,,rectangle,,11941,SWL
-lavv-swl,624,,,#009ee3,#ffffff,,rectangle,,11941,SWL
-lavv-swl,625,,,#007757,#ffffff,,rectangle,,11941,SWL
-lavv-swl,626,,,#0070ba,#ffffff,,rectangle,,11941,SWL
-lavv-swl,627,,,#00b2bb,#ffffff,,rectangle,,11941,SWL
-lavv-swl,628,,,#ffed00,#000000,,rectangle,,11941,SWL
-lavv-swl,629,,,#0b9a33,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E01,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E02,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E03,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E04,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E05,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E06,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E07,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E08,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E09,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E10,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E11,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E12,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E13,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E14,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E15,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E17,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E18,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E19,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E20,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E21,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E22,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E23,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E25,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E26,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E28,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E29,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E30,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E31,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E32,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E33,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E34,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E37,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E38,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E39,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E40,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E41,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E42,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E43,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E50,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E51,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E52,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E53,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E54,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E55,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E56,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E57,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E58,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E59,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E60,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E61,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E62,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E63,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E64,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E65,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E66,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E67,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E68,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E69,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E70,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E71,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E72,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E73,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E74,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E75,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E76,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E77,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E78,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E79,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E80,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E81,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E82,,,#008957,#ffffff,,rectangle,,11941,SWL
-lavv-swl,E83,,,#008957,#ffffff,,rectangle,,11941,SWL
+lavv-swl,601,,,#85bc22,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,602,,,#fbba00,#000000,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,603,,,#de007d,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,604,,,#009ee3,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,605,,,#007757,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,606,,,#0070ba,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,607,,,#00b2bb,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,608,,,#ffed00,#000000,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,609,,,#0b9a33,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,610,,,#9d1680,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,611,,,#e3000f,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,612,,,#58348b,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,614,,,#ee7100,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,615,,,#5f90a7,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,616,,,#a87555,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,617,,,#673e7a,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,618,,,#b74139,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,619,,,#00817f,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,620,,,#9d1680,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,621,,,#85bc22,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,622,,,#fbba00,#000000,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,623,,,#de007d,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,624,,,#009ee3,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,625,,,#007757,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,626,,,#0070ba,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,627,,,#00b2bb,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,628,,,#ffed00,#000000,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,629,,,#0b9a33,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E01,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E02,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E03,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E04,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E05,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E06,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E07,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E08,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E09,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E10,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E11,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E12,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E13,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E14,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E15,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E17,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E18,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E19,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E20,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E21,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E22,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E23,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E25,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E26,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E28,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E29,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E30,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E31,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E32,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E33,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E34,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E37,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E38,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E39,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E40,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E41,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E42,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E43,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E50,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E51,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E52,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E53,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E54,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E55,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E56,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E57,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E58,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E59,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E60,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E61,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E62,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E63,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E64,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E65,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E66,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E67,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E68,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E69,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E70,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E71,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E72,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E73,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E74,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E75,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E76,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E77,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E78,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E79,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E80,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E81,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E82,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
+lavv-swl,E83,,,#008957,#ffffff,,rectangle,,15188,Stadtwerke Landshut
 liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,
 mdv-lvb,1,,8-naslvt-1,#78b145,#ffffff,,rectangle,Q121343878,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,2,,8-naslvt-2,#f7ce46,#000000,,rectangle,Q136824538,8872,Leipziger Verkehrsbetriebe
@@ -1284,6 +1785,9 @@ mvv-regional-bus,322,,,#e30113,#ffffff,,rectangle,,13521,Regionalverkehr Oberbay
 mvv-regional-bus,323,,,#11bae7,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,324,,,#00803d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,325,,,#ec6724,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,326,,,#759c70,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,328,,,#b29f19,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,329,,,#436894,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,331,,,#9587bf,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,332,,,#91c2ea,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,333,,,#fccb84,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
@@ -1338,8 +1842,11 @@ mvv-regional-bus,379,,,#00aedf,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,379V,,,#00aedf,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,391,,,#d7007c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,392,,,#334d90,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,393,,,#e73138,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,393V,,,#e73138,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,394,,,#6c9f23,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,395,,,#0083bd,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,397,,,#ab720d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,401,,,#1d4797,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,402,,,#e5077e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,403,,,#1b9dd9,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
@@ -1365,6 +1872,7 @@ mvv-regional-bus,427,,,#a81a17,#ffffff,,rectangle,,13521,Regionalverkehr Oberbay
 mvv-regional-bus,429,,,#5ab032,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,431,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,432,,,#007ea8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,433,,,#c73355,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,434,,,#8e4459,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,435,,,#4ca8bf,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,436,,,#f1956c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
@@ -1401,6 +1909,7 @@ mvv-regional-bus,466V,,,#006741,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,468,,,#993d83,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,469,,,#004d2c,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,469V,,,#004d2c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,470,,,#005aa4,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,474,,,#8b116c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,475,,,#32bef0,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,476,,,#aca2c6,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
@@ -1460,6 +1969,8 @@ mvv-regional-bus,543,,,#9cb3cf,#ffffff,,rectangle,,13521,Regionalverkehr Oberbay
 mvv-regional-bus,545,,,#c2ac3a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,546,,,#86aa8e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,547,,,#648eca,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,548,,,#0069aa,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,549,,,#8d9136,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,553,,,#e6331c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,555,,,#50362f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,557,,,#950966,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
@@ -1484,8 +1995,21 @@ mvv-regional-bus,574,,,#009f5e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbay
 mvv-regional-bus,575,,,#0072bc,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,576,,,#005f27,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,579,,,#e30614,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,580,,,#a21008,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,580V,,,#a21008,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,581,,,#522d59,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,582,,,#006a8d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,584,,,#d3af77,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,586,,,#ed6887,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,587,,,#672501,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,590,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,592,,,#779c9c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,593,,,#16a0c8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,594,,,#005283,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,595,,,#f9d82c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,596,,,#6b4510,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,598,,,#bcb185,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,599,,,#638750,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,635,,,#a10f1f,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,661,,,#114a70,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,662,,,#67b2cc,#ffffff,,rectangle,,7687,MVV-Regionalbus
@@ -1498,6 +2022,10 @@ mvv-regional-bus,666,,,#8c8564,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,667,,,#005b81,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,668,,,#f0ad0d,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,671,,,#0a4d8d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,672,,,#00712f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,674,,,#b2b15f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,675,,,#312783,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,676,,,#0076b0,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,678,,,#c4b92d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,679,,,#00a04e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,680,,,#807a8a,#ffffff,,rectangle,,7687,MVV-Regionalbus
@@ -1508,6 +2036,7 @@ mvv-regional-bus,683,,,#b90934,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,683V,,,#b90934,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,684,,,#00976b,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,685,,,#c98eb5,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,686,,,#887264,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,687,,,#887264,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,688,,,#e1ba00,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,690,,,#7f5879,#ffffff,,rectangle,,7687,MVV-Regionalbus
@@ -1536,11 +2065,14 @@ mvv-regional-bus,721,,,#cc5c15,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,721V,,,#cc5c15,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,723,,,#ef8bb7,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,725,,,#7a7c7f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,725V,,,#7a7c7f,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,727,,,#dc0813,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,727V,,,#dc0813,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,728,,,#c299a9,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,729,,,#007fb6,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,771,,,#a8455f,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,772,,,#1a3d8d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,772V,,,#1a3d8d,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,782,,,#c84c25,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,785,,,#836323,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,791,,,#3cbff0,#ffffff,,rectangle,,7687,MVV-Regionalbus
@@ -1636,11 +2168,14 @@ mvv-regional-bus,934,,,#008538,#ffffff,,rectangle,,13521,Regionalverkehr Oberbay
 mvv-regional-bus,935,,,#d12d39,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,936,,,#7d4f24,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,937,,,#7e527a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,938,,,#53aa64,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,939,,,#005591,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,940,,,#2171b8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,941,,,#2171b8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,942,,,#e30113,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,944,,,#ffffff,#005366,#005366,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,947,,,#a50b2b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,947V,,,#a50b2b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,948,,,#a591a4,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,949,,,#733155,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,950,,,#b17f4a,#ffffff,,rectangle,,7687,MVV-Regionalbus
@@ -1928,11 +2463,13 @@ nrw-sbahn,S 3,db-regio-ag-nrw,4-8003l1-3,#fff200,#000000,,pill,,10436,DB Regio A
 nrw-sbahn,S 4,db-regio-ag-nrw,4-800337-4,#f5821f,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 5,db-regio-ag-nrw,4-800354-5,#80c342,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 6,db-regio-ag-nrw,4-8003s-6,#e21d3c,#ffffff,,pill,,10436,DB Regio AG NRW
+nrw-sbahn,S 8,db-regio-ag-nrw,4-800354-8,#b23815,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 9,db-regio-ag-nrw,4-8003l1-9,#c6168d,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 11,db-regio-ag-nrw,4-8003s-11,#f26522,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 12,db-regio-ag-nrw,4-8003s-12,#4db857,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 19,db-regio-ag-nrw,4-8003s-19,#00658e,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 23,db-regio-ag-nrw,4-800352-23,#8c2a77,#ffffff,,pill,,10436,DB Regio AG NRW
+nrw-sbahn,S 28,regiobahn,4-m2-28,#4a0b4d,#ffffff,,pill,,10894,REGIOBAHN
 nvs,1,,8-vwmstr-1,#e5007d,#ffffff,,rectangle,,7560,Straßenbahn
 nvs,1,,5-vwmbus-1,#e5007d,#ffffff,,pill,,8219,Schwerin Bus
 nvs,2,,8-vwmstr-2,#e3000f,#ffffff,,rectangle,,7560,Straßenbahn
@@ -2877,6 +3414,55 @@ vgc-volz,662,,,#ffcb04,#000000,,rectangle,,7593,Calw VPC
 vgc-volz,663,,,#00a99c,#ffffff,,rectangle,,7593,Calw VPC
 vgc-volz,670,,,#f89339,#ffffff,,rectangle,,8008,Privatunternehmer-Bus (CW)
 vgc-volz,880,,,#0072bc,#ffffff,,rectangle,,7593,Calw VPC
+vgf-freizeitverkehr,F 1,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 3,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 9,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 10,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 11,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 13,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 14,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 16,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 19,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 20,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-private-vu,11,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,19,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,21,,,#4eb848,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,22,,,#a66898,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,23,,,#00aaad,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,31,,,#2f69b3,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,32,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,33,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,34,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,35,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,R33,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,41,,,#0072bc,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,42,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,43,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,45,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,50,,,#007db6,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,60,,,#0072bc,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,61,,,#00aaad,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,70,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,7266,,,#c6920b,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,100,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,200,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-suedwestbus,7161,,,#ec008c,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7400,,,#f5821f,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7401,,,#c40075,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7402,,,#f5821f,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7403,,,#ed1c24,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7405,,,#c40075,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7406,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7408,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7409,,,#a3738b,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7411,,,#4eb848,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7417,,,#4eb848,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7418,,,#ec008c,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7782,,,#a66898,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7784,,,#c40075,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7787,,,#a66898,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7788,,,#a66898,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7938,,,#ec008c,#ffffff,,rectangle-rounded-corner,,8103,RVS
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle,,10446,DB Regio AG Bayern
@@ -2941,6 +3527,70 @@ vgn-vag-tram,10,,8-vanstr-10,#c94f82,#ffffff,,rectangle,,13652,Tram Nürnberg
 vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
+vhb-regionalverkehr,100,,,#b83838,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,100S,,,#b83838,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,101,,,#d36286,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,101S,,,#d36286,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,102,,,#cbbb00,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,102S,,,#cbbb00,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,103,,,#6ca5da,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,104,,,#007599,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,105,,,#79a742,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,106,,,#2d934f,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,200,,,#e63312,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,200S,,,#e63312,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,201,,,#6859a2,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,202,,,#76beea,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,203,,,#ee7216,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,203S,,,#ee7216,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,204,,,#e83273,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,205,,,#37ab49,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,300,,,#53821d,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,301,,,#004d6d,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,302,,,#cd1720,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,303,,,#6e507b,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,304,,,#438f8f,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,305,,,#06a169,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,306,,,#96b522,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,307,,,#b75782,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,308,,,#aeaeae,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,400,,,#b48832,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,401,,,#848ac4,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,402,,,#eb6218,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,403,,,#b08d85,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,404,,,#d08837,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-sbg,33,,,#6ca5da,#ffffff,,rectangle-rounded-corner,,14785,SBG-Villingen
+vhb-stadtbus-konstanz,1,,,#e7323e,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,2,,,#ffdf43,#000000,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,3,,,#e19ac3,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,4/13,,,#f6b0a5,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,5,,,#1d6599,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,6,,,#ea5083,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,9,,,#a4bde3,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,11,,,#0f766e,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,12,,,#f07e3b,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,12/3,,,#e98c83,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,13/4,,,#8acab7,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,14,,,#bddced,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,15,,,#c2aa9e,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,CS,,,#9fca78,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,N,,,#9c9d9d,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-radolfzell,1,,,#cf171e,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,2,,,#026eb6,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,3,,,#25a237,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,4,,,#ee7408,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,5,,,#009fe3,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,6,,,#951b81,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-singen,1,,,#ef4230,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,2,,,#0095da,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,3,,,#d85fa4,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,4,,,#01b24b,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,5,,,#f5821f,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,6,,,#6850a1,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,7,,,#b7d433,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,8,,,#ffcb04,#000000,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,9,,,#004991,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,10,,,#b9e5fb,#000000,#000000,circle,,13643,Stadtbus Singen (Htw)
 vias,RB10,vias-gmbh,via-rb10,#e3a02e,#ffffff,,rectangle-rounded-corner,,10932,VIAS GmbH
 vlexx,EX,,,#0a9641,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
 vlexx,RE2,,,#ec174c,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
@@ -3646,20 +4296,20 @@ vrn-rnv-bus,RNV 64,,,#0090a5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
 vrn-rnv-bus,RNV 65,,,#8ac5bd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
 vrn-rnv-bus,RNV 66,,,#e5007c,#ffffff,,pill,,7913,RNV Mannheim (Bus)
 vrn-rnv-bus,RNV 67,,,#e17500,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-tram,RNV 1,,,#f39b9a,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,RNV 2,,,#b00044,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,RNV 3,,,#d5ad00,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 1,,,#f39b9a,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 2,,,#b00044,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 3,,,#d5ad00,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
 vrn-rnv-tram,RNV 4,,,#e3000b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
 vrn-rnv-tram,RNV 4A,,,#e3000b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
 vrn-rnv-tram,RNV 5,,,#00965e,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
 vrn-rnv-tram,RNV 5A,,,#00965e,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,RNV 6,,,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,RNV 6A,,,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,RNV 6E,,,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,RNV 7,,,#ffcc00,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,RNV 8,,,#e17500,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 6,,,#956b25,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 6A,,,#956b25,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 6E,,,#956b25,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 7,,,#ffcc00,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 8,,,#e17500,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
 vrn-rnv-tram,RNV 9,,,#93c23b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
-vrn-rnv-tram,RNV 10,,,#a60f80,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 10,,,#a60f80,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
 vrn-rnv-tram,RNV 15,,,#f7ab63,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
 vrn-rnv-tram,RNV 16,,,#5e6baf,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
 vrn-rnv-tram,RNV 21,,,#e3000b,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
@@ -4776,8 +5426,7 @@ vvo-tram,10,,8-voe011-10,#f9b000,#ffffff,,rectangle-rounded-corner,Q93767517,819
 vvo-tram,11,,8-voe011-11,#c2ddaf,#000000,,rectangle-rounded-corner,Q91034464,8190,DVB-Straßenbahn
 vvo-tram,12,,8-voe011-12,#006b42,#ffffff,,rectangle-rounded-corner,Q93767629,8190,DVB-Straßenbahn
 vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner,Q93767971,8190,DVB-Straßenbahn
-vvo-tram,44,,8-voe011-44,#a14c8d,#000000,,rectangle-rounded-corner,,,
-vvo-tram,46,,8-voe011-46,#eba507,#000000,,rectangle-rounded-corner,,,
+vvo-tram,41,,8-voe011-41,#a7338a,#000000,,rectangle-rounded-corner,,,DVB-Straßenbahn
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner,,8190,DVB-Straßenbahn
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232,10443,DB Regio AG Baden-Württemberg
@@ -4786,8 +5435,8 @@ vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle
 vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804,10443,DB Regio AG Baden-Württemberg
+vvs-db-sbs,S24,,,#9a6c9c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S61,,,#c2db14,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
@@ -5407,31 +6056,31 @@ wt-padersprinter,N1,,5-vph063-n1,#e30513,#000000,,rectangle,,9316,Padersprinter
 wt-padersprinter,N2,,5-vph063-n2,#37ac47,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,N4,,5-vph063-n4,#00b9f2,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,N8,,5-vph063-n8,#ffed00,#000000,,rectangle,,9316,Padersprinter
-wt-padersprinter,1,,5-vph063-1,#f6c954,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,2,,5-vph063-2,#4eac91,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,3,,5-vph063-3,#9c69af,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,4,,5-vph063-4,#a16335,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,5,,5-vph063-5,#98273b,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,6,,5-vph063-6,#8ad7f4,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,7,,5-vph063-7,#e29042,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,8,,5-vph063-8,#95c65a,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,9,,5-vph063-9,#e98bbd,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,10,,5-vph063-10,#7fba91,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,11,,5-vph063-11,#5d201d,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,12,,5-vph063-12,#18367d,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,13,,5-vph063-13,#5fb458,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,14,,5-vph063-14,#7b4586,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,16,,5-vph063-16,#469cd8,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,20,,5-vph063-20,#7fba91,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,23,,5-vph063-23,#5fb458,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,42,,5-vph063-42,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,43,,5-vph063-43,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,44,,5-vph063-44,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,45,,5-vph063-45,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,46ALF,,9-vph063-46alf,#ffffff,#9b9c9f,#9b9c9f,rectangle,,9316,Padersprinter
-wt-padersprinter,47,,5-vph063-47,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,48,,5-vph063-48,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,100,,5-vph063-100,#469cd8,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,1,,5-vph063-1,#ffcc00,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,2,,5-vph063-2,#009881,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,3,,5-vph063-3,#b164a4,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,4,,5-vph063-4,#a75d24,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,5,,5-vph063-5,#9e0636,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,6,,5-vph063-6,#82cff5,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,7,,5-vph063-7,#e28e03,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,8,,5-vph063-8,#94c11e,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,9,,5-vph063-9,#ea86b5,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,10,,5-vph063-10,#8ec899,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,11,,5-vph063-11,#6d2929,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,12,,5-vph063-12,#123274,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,13,,5-vph063-13,#28a73f,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,14,,5-vph063-14,#8c2f88,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,16,,5-vph063-16,#008ecf,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,20,,5-vph063-20,#8ec899,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,23,,5-vph063-23,#28a73f,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,42,,5-vph063-42,#9d9d9c,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,43,,5-vph063-43,#9d9d9c,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,44,,5-vph063-44,#9d9d9c,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,45,,5-vph063-45,#9d9d9c,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,46ALF,,9-vph063-46alf,#ffffff,#9d9d9c,#9d9d9c,rectangle,,9316,Padersprinter
+wt-padersprinter,47,,5-vph063-47,#9d9d9c,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,48,,5-vph063-48,#9d9d9c,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,100,,5-vph063-100,#8e97cb,#ffffff,,rectangle,,9316,Padersprinter
 wt-rvm,B1,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
 wt-rvm,B4,,,#52a277,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
 wt-rvm,B11,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
@@ -5564,6 +6213,37 @@ wt-wb,311,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
 wt-wb,312,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
 wt-wb,315,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
 wt-wb,316,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wtv-sbg,7314,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7317,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7318,,,#4e897c,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7319,,,#00a759,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7320,,,#ad498c,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7321,,,#0093cb,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7322,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7323,,,#52648a,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7324,,,#fa853d,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7325,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7326,,,#aa9273,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7327,,,#00a759,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7328,,,#bcd800,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7329,,,#c72213,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7330,,,#feae47,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7331,,,#8874c8,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7334,,,#0093cb,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7335,,,#7b96d1,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7336,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7337,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7338,,,#00a759,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7339,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7340,,,#ea4818,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7341,,,#feae47,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7342,,,#00a3d4,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7343,,,#dd2b1c,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7344,,,#f27e00,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7345,,,#e8549f,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7346,,,#7e6f67,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7347,,,#dd2b1c,#ffffff,,rectangle,,14786,SBG-Waldshut
+wtv-sbg,7348,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
