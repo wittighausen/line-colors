@@ -546,23 +546,23 @@
             },
             {
                 "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
             },
             {
-                "name": "Liniennetzplan Rheinland-Pfalz",
-                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
-            },
-            {
-                "name": "RSNP 2025",
+                "name": "RSNP 2026",
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
             },
             {
                 "name": "JUIL 2025_Carte reseau CFL_DE_A3_PRINT",
                 "source": "https://www.cfl.lu/getattachment/cc0c66f9-2074-476a-8140-7557866b17a2/juil-2025_carte-reseau-cfl_de_a3_print.pdf"
             },
-            {
-                "name": "Liniennetzplan Rheinland-Pfalz Stand 2025",
-                "source": "https://www.zoepnv-sued.de/fileadmin/user_upload/RLP_Liniennetzplan_Stand-03-2025_02.pdf"
+			{
+                "name": "Regionales Schienennetz VRN",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/vrn_regionales_schienennetz.pdf"
+            },
+			{
+                "name": "Liniennetzplan Rheinland-Pfalz gültig ab 14.12.2025",
+                "source": "https://www.zoepnv-sued.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_gueltig-ab-14-12-2025neu.pdf"
             }
         ]
     },
@@ -1967,6 +1967,126 @@
         ]
     },
     {
+        "shortOperatorName": "move-rab",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-sbg",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            },
+			{
+                "name": "Liniennetz Stadt Schramberg",
+                "source": "https://mein-move.de/wp-content/uploads/2024/12/Liniennetzplan-Stadt-Schramberg-2024.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-sonstige-sbk",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-sonstige-tt",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-stadtverkehr-donaueschingen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Regionalverkehr im Schwarzwald-Baar-Kreis: Donaueschingen, Blumberg und Umgebung",
+                "source": "https://mein-move.de/wp-content/uploads/2025/03/SBK-Lininennetzplan-Donaueschingen-Blumberg-und-Umgebung-Regionalverkehr.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-stadtverkehr-tuttlingen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtverkehr Tuttlingen 2026",
+                "source": "https://mein-move.de/wp-content/uploads/2026/03/TUT-Stadt-Grundplan-2025-11.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-stadtverkehr-villingen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Villingen-Schwenningen",
+                "source": "https://mein-move.de/wp-content/uploads/2025/11/SBK-Liniennetzplan-VS-Stadtverkehr-2026_web.pdf"
+            },
+			{
+                "name": "Liniennetzplan Villingen-Schwenningen NachtAcht",
+                "source": "https://mein-move.de/wp-content/uploads/2025/11/SBK-Liniennetzplan-VS-Nacht8_2026_web.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-suedwestbus",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvb-magdeburg",
         "contributors": [
             {
@@ -2233,16 +2353,495 @@
         ]
     },
     {
+        "shortOperatorName": "naldo-bayer",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-beck",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-bottenschein",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Bad Urach",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-urach.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-edel",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Mössingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-moessingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Rottenburg",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-rottenburg.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-eissler",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-frankenhauser",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Bad Saulgau",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-saulgau.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-gross",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Rottenburg",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-rottenburg.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-hartmann",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Liniennetz Reutlingen und Umgebung",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-hvb",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Balingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-balingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Hechingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-hechingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-knoll",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Burladingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-burladingen.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-kvb-sigmaringen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-leibfritz",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Dettingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-dettingen-erms.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-maas-reisen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Balingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-balingen.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-ovr-ruoff",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Bad Urach",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-urach.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-rab",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Bad Saulgau",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-saulgau.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Balingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-balingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Bad Urach",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-urach.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Burladingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-burladingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Hechingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-hechingen.pdf"
+            },
+			{
+                "name": "naldo Liniennetz Reutlingen und Umgebung",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Rottenburg",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-rottenburg.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-reisch",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Bad Saulgau",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-saulgau.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-robus",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Rottenburg",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-rottenburg.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-rsv",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Liniennetz Reutlingen und Umgebung",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-reutlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-svl",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Bad Urach",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-urach.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-sw-sigmaringen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Donaubus Sigmaringen",
+                "source": "https://www.stadtwerke-sigmaringen.de/de/Privatkundinnen/Service/Downloads/Downloads/Donaubus-Aushaenge-2025-BUS-Linienplan-Website-A4.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-sweg",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Burladingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-burladingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Gammertingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-gammertingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Mössingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-moessingen.pdf"
+            },
+			{
+                "name": "naldo Liniennetz Reutlingen und Umgebung",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-taxi-xxl-rt",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Burladingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-burladingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Metzingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-metzingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-taxizentrale-tue",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "naldo-tuebus",
         "contributors": [
             {
                 "github": "luna-cant-code"
+            },
+			{
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetzplan Stadtnetz Tübingen",
-                "source": "https://www.tuebus.de/fileadmin/user_upload/3Fahrgaeste/TueBus_2502_LNP_web.pdf"
+                "source": "https://www.tuebus.de/fileadmin/user_upload/3Fahrgaeste/TueBus_Liniennetzplan_2026_A4_WEB.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-wilhelm-lutz",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Metzingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-metzingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-willy-kopp",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Balingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-balingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nvm-wvv",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "WVV Liniennetz Busse und Straßenbahnen",
+                "source": "https://www.wvv.de/media-wvv/mobilitaet/dokumente/liniennetz/liniennetzplan-busse-und-strabas-wvv.pdf"
+            },
+            {
+                "name": "WVV Liniennetz Nachtbusse",
+                "source": "https://www.wvv.de/media-wvv/mobilitaet/dokumente/nachtbus/nachtbus-liniennetzplan.pdf"
             }
         ]
     },
@@ -2419,12 +3018,19 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "dancojocaru2000"
             }
         ],
         "sources": [
             {
                 "name": "NRW-Fahrplanbuch 2024",
                 "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTgwMDk4ODMsImV4cCI6MTcxODA1NjY4MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0Xy5QREYiLCJwYWdlIjoxMDg2fQ.eqeSLrc-3uV-VsOrh4aTvIRNBDyLYXeh6kwBMD_znPo/NRW_Fahrplan2024_.PDF"
+            },
+            {
+                "name": "Netzplan NRW 2026",
+                "source": "https://avv.de/files/avv/files/fahrplaene/schnellfahrplaene/schnellverkehr_nrw.pdf"
             }
         ]
     },
@@ -2494,6 +3100,10 @@
             {
                 "name": "Liniennetzplan Linz AG Linien",
                 "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan.pdf"
+            },
+            {
+                "name": "Nachtliniennetzplan Linz AG Linien",
+                "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan-nacht.pdf"
             }
         ]
     },
@@ -4019,20 +4629,6 @@
         ]
     },
     {
-        "shortOperatorName": "vpe-seitter",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
-                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "vpe-sweg",
         "contributors": [
             {
@@ -4602,6 +5198,10 @@
             {
                 "name": "Streckenkarte der S-Bahn Rhein-Neckar (gültig ab 14.12.2025)",
                 "source": "https://assets.static-bahn.de/dam/jcr:c957cf88-5b83-4596-a789-40d3889514eb/20251002_LN_S-Bahn_RN_oRE73_25_847x365.pdf"
+            },
+            {
+                "name": "Streckenkarte Main-Neckar-Ried-Express",
+                "source": "https://assets.static-bahn.de/dam/jcr:27c125bc-7bab-4eae-88c6-08d18285b46b/20220222_SK_MNR.pdf"
             }
         ]
     },
@@ -5164,6 +5764,176 @@
         ]
     },
     {
+        "shortOperatorName":"vt-boras",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Borås stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/boras_2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-falkoping",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-gbg",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Expressbussar och pendeltåg Göteborg",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/expressbussar/436580_expressbuss-pendeltag_a3_250818.pdf"
+            },
+            {
+                "name": "Spårvagns- stombuss- och båttrafik Göteborg",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/sparvagn/sparvagn_stombuss_bat__linjenatskarta_251214.pdf"
+            },
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-harryda",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Buss- och tåglinjer Härryda kommun",
+                "source": "https://www.harryda.se/images/18.3be047cd19937309406715e/1758114597369/HK_linjekarta_09-25%20webb.jpg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-lerum",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-skara",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Skara stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/var-2023/402395_skara_a3.pdf"
+            },
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-skovde",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Skövde stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/skovde_linjenatskarta_251214.pdf"
+            },
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-trollhattan",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Trollhättans stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/var-2023/402488_trollhattan_a3.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-vanersborg",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Vänersborg stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/var-2023/402487_vanersborg_a3.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-vasttag",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Tågen i västra Sverige",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/tag/tagkarta_dec_24.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvk-kmg",
+        "contributors": [
+            {
+                "github": "brockbnntt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan KMG",
+                "source": "https://www.klagenfurtmobil.at/wp-content/uploads/2025/11/kmg-schematisch-2025-12-aushang-web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvk-oebb",
         "contributors": [
             {
@@ -5570,6 +6340,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-seitter",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-bus",
         "contributors": [
             {
@@ -5774,7 +6558,7 @@
         "sources": [
             {
                 "name": "Schematischer Netzplan Bielefeld",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/Blfd._Linien_A2_FW_Brackwede_01.12.2025.pdf"
             },
             {
                 "name": "Bielefeld: schematischer Netzplan NachtBus",
